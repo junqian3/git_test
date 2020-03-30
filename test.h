@@ -1,4 +1,0 @@
-#include <string>
-
-class Student{
-};
